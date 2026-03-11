@@ -1,7 +1,7 @@
 names:
   0: customer
   1: staff
-path: /home/shizm/DL_LABs/DL-lab2/dl-lab-2-stuff-detection/yolo_dataset/yolo_dataset
+path: /home/shizm/DL_LABs/DL-lab2/data/yolo_dataset/yolo_dataset
 
 train: train/images
 val: train/images
