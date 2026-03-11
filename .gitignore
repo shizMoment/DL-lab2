@@ -1,0 +1,11 @@
+data/
+
+models/*.pt
+
+runs/
+
+.vscode/
+.idea/
+
+__pycache__/
+.venv/
