@@ -13,3 +13,6 @@
 
 ## Веса модели:
 https://disk.yandex.ru/d/-PfUY5wdxc8RbA
+
+## Соревнование на kaggle:
+https://www.kaggle.com/competitions/dl-lab-2-stuff-detection
