@@ -1,4 +1,4 @@
-## DL-lab1-CUDAoutOFmemory
+## DL-lab2-CUDAoutOFmemory
 # Решение ЛР2 по детекции сотрудников магазина
 
 ## Команда *CUDAoutOFmemory*:
